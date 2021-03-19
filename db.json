@@ -17,6 +17,12 @@
       "text": "lost 10 kg in a month",
       "day": "March 7th at 3pm",
       "reminder": false
+    },
+    {
+      "text": "get job",
+      "day": "20",
+      "reminder": true,
+      "id": "iWSv4pP"
     }
   ]
 }
