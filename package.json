@@ -1,0 +1,26 @@
+{
+  "name": "vue-02-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "backend": "json-server --watch db.json --port 5000"
+  },
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "core-js": "^3.6.5",
+    "envify": "^4.1.0",
+    "json-server": "^0.16.3",
+    "vue": "^3.0.7",
+    "vue-class-component": "^8.0.0-0",
+    "vue-router": "^4.0.5"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-typescript": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "typescript": "~3.9.3"
+  }
+}

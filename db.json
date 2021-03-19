@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Get job",
+      "day": "March 5th at 10pm",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Feed Cats",
+      "day": "March 6th at 2pm",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "lost 10 kg in a month",
+      "day": "March 7th at 3pm",
+      "reminder": false
+    }
+  ]
+}
